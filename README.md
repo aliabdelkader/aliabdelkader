@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I started working in the automovitve industry 5 years ago specializing in simulation and virualization. On the research side, my master's thesis was about using deep learning to fuse information from the camera and LiDAR sensors to improve the semantic segementation of the LiDAR's point cloud.
+- 🔭 I started working in the automotive industry 5 years ago specializing in simulation and virualization. On the research side, my master's thesis was about using deep learning to fuse information from the camera and LiDAR sensors to improve the semantic segementation of the LiDAR's point cloud.
   
 - 🌱 I’m currently learning about ML compliers and MLIR. I am looking forward to contribute to the Pytorch compiler stack and OpenXla stack.
 
-- 📫 How to reach me: aly.abdelkader@aucegypt.edu
+- 📫 How to reach me: ali.abdelkader@aucegypt.edu
    
